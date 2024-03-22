@@ -13,7 +13,7 @@ else:
 
 # IF-ELIF-ELSE
 
-nota = 98
+nota = 98   
 
 if nota >= 70 and nota <= 100:
     print("Aprobado")
